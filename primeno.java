@@ -5,7 +5,7 @@ class primeno
         int i,j,k;
         for(i=2;i<50; i++)
         {
-            //k=0;
+            k=0;
             for(j=2 ; j<i ; j++)
             {
                 if(i % j== 0)
